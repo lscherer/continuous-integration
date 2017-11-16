@@ -9,7 +9,7 @@ func Sub(a int, b int) int {
 }
 
 func Mul(a int, b int) int {
-	return a + b
+	return a * b
 }
 
 func Div(a int, b int) float64 {
